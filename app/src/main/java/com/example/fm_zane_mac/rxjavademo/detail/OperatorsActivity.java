@@ -105,9 +105,6 @@ public class OperatorsActivity extends BaseActivity {
             case R.id.delay:
                 doDelay();
                 break;
-            case R.id.interval:
-                doInterval();
-                break;
         }
     }
 
