@@ -14,22 +14,23 @@ demo包括：
 * CompositeDisposable 的使用
 
 3、RxJava操作符
+
 变换操作：
-* map
-* flatMap
-* concatMap
+  * map
+  * flatMap
+  * concatMap
 
 过滤操作：
-* filter
-* simple
+  * filter
+  * simple
 
 结合操作：
-* zip
+  * zip
 
 辅助操作：
-* timeout
-* delay
+  * timeout
+  * delay
 
 创建操作：
-* interval
+  * interval
 
